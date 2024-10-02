@@ -1,3 +1,4 @@
+LOCAL
 # new-repo
 
 j'écris quelques lignes dans mon new repo
